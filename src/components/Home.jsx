@@ -1,5 +1,8 @@
 import React from 'react'
 import TextMoving from './TextMoving'
+import About from './About'
+import Projects from './Projects'
+import Contact from './Contact'
 
 const Home = () => {
   return (
@@ -11,6 +14,9 @@ const Home = () => {
         <TextMoving />
         <button className='text-slate-50 border-solid border-[3px] hover:brightness-95 bg-blue-500 border-blue-500 mt-3 px-3 py-1 text-2xl rounded-sm'>Contact Me</button>
       </div>
+      <About />
+      <Projects />
+      <Contact />
     </div>
   )
 }
