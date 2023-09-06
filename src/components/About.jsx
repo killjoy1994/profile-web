@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div id='about' className='min-h-screen mx-auto max-w-[1300px] px-4'>
+        <div id='about' className='min-h-[800px] mx-auto max-w-[1300px] px-4'>
             <h2 className='text-slate-50 text-6xl mb-16'>ABOUT ME</h2>
             <div className='flex justify-between gap-x-20'>
                 <p className='text-slate-50 text-xl w-6/12'>
@@ -10,7 +10,7 @@ const About = () => {
                 </p>
                 <div className='w-6/12'>
                     <div className='mb-10'>
-                        <h3 className='text-slate-50 text-2xl mb-5'>Skills</h3>
+                        <h3 className='text-slate-50 text-2xl mb-5'>My Skills:</h3>
                         <ul className='flex gap-3 w-[400px] flex-wrap'>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>HTML</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Javascript</li>
@@ -23,7 +23,7 @@ const About = () => {
                         </ul>
                     </div>
                     <div>
-                        <h3 className='text-slate-50 text-2xl mb-5'>Learning</h3>
+                        <h3 className='text-slate-50 text-2xl mb-5'>Currently Learning:</h3>
                         <ul className='flex gap-3 w-[400px] flex-wrap'>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Backend Development</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Mysql</li>
