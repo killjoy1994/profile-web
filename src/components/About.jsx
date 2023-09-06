@@ -13,13 +13,16 @@ const About = () => {
                         <h3 className='text-slate-50 text-2xl mb-5'>My Skills:</h3>
                         <ul className='flex gap-3 w-[400px] flex-wrap'>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>HTML</li>
-                            <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Javascript</li>
+                            
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>CSS</li>
+                            <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Javascript</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>React</li>
+                            <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Redux</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Node</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Express</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Git</li>
                             <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Tailwind</li>
+                            <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Postman</li>
                         </ul>
                     </div>
                     <div>
