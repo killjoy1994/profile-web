@@ -7,7 +7,7 @@ const TextMoving = () => {
         // Same substring at the start will only be typed out once, initially
         "I'm frontend developer.",
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        "And currently I'm learning about backend too.",
+        "I love music, cooking, and plants.",
         1000,
         "You can contact me bellow.",
         1000,
