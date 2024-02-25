@@ -34,7 +34,7 @@ const Projects = () => {
                         <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Git</li>
                         <li className='text-slate-50 px-3 py-1 bg-slate-800 rounded-md'>Tailwind</li> */}
                     </ul>
-                    <p className='text-slate-50 text-lg mt-2'>Masak is a website where you can search various categories of recipes. You can create an account and share your own delicious recipes with everyone. Through this project, I learned about authentication and authorization with JWT. Additionally, I created the API for the project using Express.</p>
+                    <p className='text-slate-50 text-lg mt-2'>In this project, I implemented my knowledge of PHP and Laravel that I have learned. I created pages for both admin and users. There are features such as a cart and checkout. Admins can also generate order data into a PDF file. This project still has plenty of room for further development..</p>
                     <p className='text-[14px] text-slate-50'>*still working on improving this project.</p>
                 </div>
                 <div className=''>
