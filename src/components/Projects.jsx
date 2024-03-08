@@ -18,7 +18,7 @@ const Projects = () => {
                     <div className='flex justify-between items-center mt-4 '>
                         <h3 className='text-slate-50 text-2xl'>MyMarket (Ecommerce)</h3>
                         <div className='flex gap-x-3 items-center justify-center'>
-                            <a href='' target='blank' className='text-slate-50 text-lg hover:-skew-y-3'>Demo (not deployed yet)</a>
+                            <a href='' target='blank' className='text-slate-50 text-lg hover:-skew-y-3'>(not deployed yet)</a>
                             <a href="https://github.com/killjoy1994/ecommerce_portofolio" target='blank' className='hover:scale-110'>
                                 <BsGithub color='white' size={20} />
                             </a>
